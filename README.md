@@ -1,2 +1,5 @@
 ![sayjeyhi-JafarRezaei](https://raw.githubusercontent.com/sayjeyhi/sayjeyhi/master/github.banner.jpg "WhoAmI?")
-I'm Jafar Rezaei (SayJeyHi), I’m currently making features for future
+
+![Github](https://github-readme-stats.vercel.app/api?username=sayjeyhi&show_icons=true "My gihub info")
+
+
