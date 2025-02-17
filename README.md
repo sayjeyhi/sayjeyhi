@@ -14,8 +14,9 @@ Current Stack:
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=flat&logo=Javascript&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-WebLLM-2c3e50?style=flat&logo=React&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Three.js-2c3e50?style=flat&logo=Three.js&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-CMS-2c3e50?style=flat&logo=Contentful&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-i18n-2c3e50?style=flat&logo=i18next&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-i18n [Enterprise]-2c3e50?style=flat&logo=i18next&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Next.JS-2c3e50?style=flat&logo=Next.js&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Expo-2c3e50?style=flat&logo=Expo&labelColor=34495e"/>
@@ -23,6 +24,7 @@ Current Stack:
   <img src="https://img.shields.io/badge/-VueJs-2c3e50?style=flat&logo=Vue.js&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Nuxt-2c3e50?style=flat&logo=Nuxt&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Typescript-2c3e50?style=flat&logo=Typescript&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Published 3 Books-2c3e50?style=flat&logo=BookStack&labelColor=34495e"/>
   <br/>
   <img src="https://img.shields.io/badge/-PHP-2c3e50?style=flat&logo=PHP&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat&logo=Go&labelColor=34495e"/>
