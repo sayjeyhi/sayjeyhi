@@ -4,8 +4,8 @@ All the information you need to know about me:
 
 https://bento.me/jafar-rezaei
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alireza-jangi-9b280867/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajangi.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jafar-rezaei/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayjeyhi@gmail.com)
 [![Talk To Me!](https://img.shields.io/badge/-Talk%20To%20Me-0094F5?style=flat&logo=google-meet&logoColor=white)](https://cal.com/jafar-rezaei/15min)
 
 
