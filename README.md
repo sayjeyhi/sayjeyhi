@@ -1,9 +1,6 @@
 Jafar Rezaei
 ============
 All the information you need to know about me:
-
-🎯 Try my AI-powered resume optimizer: [cvkit.ai](https://cvkit.ai?utm_source=github&utm_medium=profile&utm_campaign=github-link)
-
 https://bento.me/jafar-rezaei
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jafar-rezaei/)
